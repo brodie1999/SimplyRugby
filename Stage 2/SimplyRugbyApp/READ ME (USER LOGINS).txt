@@ -1,0 +1,14 @@
+Admin Login: (Can add new Admin)
+
+UserName: Admin 
+Password: 1
+
+Player Login: (Can add new Player)
+
+UserName: Dav
+Password: 1
+
+Junior Login: (Can add new Junior)
+
+UserName: MZimmer
+Password: 1
